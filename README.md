@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onurozbey
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning ![React.js](https://erhangunes.com.tr/public/upload/BlogResimleri/17645937-92b0-4fe2-b9db-95b521813f15.png)
 - 📫 How to reach me: onurozbey@outlook.com
 - 🌐 On Twitter: [onurozbey_](https://twitter.com/onurozbey_)
 
