@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me: onurozbey@outlook.com
-- 🌐 On social media: twitter.com/onurozbey_
+- 🌐 On Twitter: [onurozbey_](twitter.com/onurozbey_)
 
 <!---
 onurozbey/onurozbey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
