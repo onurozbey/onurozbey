@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onurozbey
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning ![React.js](https://erhangunes.com.tr/public/upload/BlogResimleri/17645937-92b0-4fe2-b9db-95b521813f15.png)
+- 👀 I’m interested in Full-Stack Development
+- 🌱 I’m currently learning ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png) ![Node.js](https://www.mshowto.org/images/articles/2021/03/one-cikan-fotograf-850x850.jpg)
 - 📫 How to reach me: onurozbey@outlook.com
 - 🌐 On Twitter: [onurozbey_](https://twitter.com/onurozbey_)
 
